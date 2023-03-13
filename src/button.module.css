@@ -1,4 +1,5 @@
 .Btn {
-  background-color: aquamarine;
-  color: white;
+  background-color: rgb(0, 255, 170);
+  color: rgb(15, 1, 1);
+  font-size: 30px;
 }
