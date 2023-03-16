@@ -1,0 +1,40 @@
+.coverImg {
+  height: 200px;
+  width: 100px;
+  margin-right: 25px;
+  margin-top: 25px;
+  margin-left: 15px;
+  border-radius: 15px;
+  box-shadow: 3px 3px 1px 0px rgba(0, 0, 0, 0.219);
+}
+
+.linkto {
+  text-decoration: none;
+}
+
+.movieBox {
+  display: flex;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin: 15px;
+  padding: 15px;
+  position: relative;
+}
+
+.movieUl {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.movieLi {
+  flex: 1;
+}
+
+.ulBox {
+  width: 390px;
+  margin-top: 15px;
+  position: absolute;
+  bottom: 15px;
+}

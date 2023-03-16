@@ -1,0 +1,21 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.homeDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeMovie {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: repeat(11, 330px);
+}
